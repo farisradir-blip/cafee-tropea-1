@@ -1,0 +1,6 @@
+{
+  "name": "Cafe Tropea",
+  "description": "A premium Mediterranean cafe and restaurant website in Tangier, Morocco, featuring an interactive menu, photo gallery, guest reviews, and booking inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
